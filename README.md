@@ -4,4 +4,5 @@
 3) 트랜스포머 (Transformer)
 4) BERT
 5) TTS, STT
+
 학습 및 실습 내역을 기록합니다.
